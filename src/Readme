@@ -1,3 +1,5 @@
 Thiss folder contains scripts
 
 mammo_classifiers.py is the source code.
+
+mammographic_masses.data.txt is the input file to the script mammo_classifiers.py
