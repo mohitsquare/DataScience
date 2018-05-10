@@ -1,5 +1,7 @@
 # DataScience
 
+Please read project report file. It has indepth explanation
+
 We'll be using the "mammographic masses" public dataset from the UCI repository. This data contains 961 instances of masses detected in mammograms, and contains the following attributes:
 1. BI-RADS assessment: 1 to 5 (ordinal) 
 2. Age: patient's age in years (integer)
